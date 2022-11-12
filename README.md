@@ -22,4 +22,4 @@ its statistical use.
 
 This chart shows the study made using Google's sales database, showing a comparison between the forecasts of each model, ARIMA and NNAR.
 
-[Article page](http://www1.rc.unesp.br/igce/matematica/bicmat/volume_18.pdf)
+[Article page link](http://www1.rc.unesp.br/igce/matematica/bicmat/volume_18.pdf)
