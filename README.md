@@ -18,4 +18,4 @@ its statistical use
 4. Methodology.
 5. A comparision between the two models.
 
-
+![models_graphic](https://user-images.githubusercontent.com/83147343/201492785-d6f1ea6a-3e07-4f32-b060-5732c25a8df7.png)
