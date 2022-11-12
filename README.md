@@ -11,14 +11,10 @@ purpose, with Google stock data from 2015. It is noteworthy, that my knowledge
 of Neural Networks is still very little, so the main focus of the work will reside in
 its statistical use
 
-1 Artificial Neural Networks. What are?
-
-2 Autoregressive Neural Networks.
-
-3 ARIMA model.
-
-4 Methodology.
-
-5 A comparision between the two models.
+1. Artificial Neural Networks. What are?
+2. Autoregressive Neural Networks.
+3. ARIMA model.
+4. Methodology.
+5. A comparision between the two models.
 
 
