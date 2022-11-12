@@ -1,8 +1,8 @@
 # Autoregressive Neural Networks
 
-Paper presented in the Bulletin of Scientific Initiation of Mathematics (BICMAT).
+### Paper presented in the Bulletin of Scientific Initiation of Mathematics (BICMAT).
 
-Summary: In this article, we will make a brief study on Autoregressive Neural
+> Summary: In this article, we will make a brief study on Autoregressive Neural
 Networks for time series analysis. We will seek to understand how this particular
 neural network architecture works and how it works for predictions. In the end,
 we will make a comparison of the performance of estimated predictions between
